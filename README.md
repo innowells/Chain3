@@ -1,4 +1,4 @@
-# MOAC JavaScript API version 0.1.2.
+# MOAC JavaScript API version 0.1.4.
 
 
 var Chain3 = require('chain3');
